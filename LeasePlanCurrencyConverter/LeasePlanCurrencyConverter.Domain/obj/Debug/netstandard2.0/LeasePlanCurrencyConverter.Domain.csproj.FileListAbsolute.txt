@@ -1,0 +1,9 @@
+C:\_workspace\LeasePlan\LeasePlanCurrencyConverter\LeasePlanCurrencyConverter.Domain\bin\Debug\netstandard2.0\LeasePlanCurrencyConverter.Domain.deps.json
+C:\_workspace\LeasePlan\LeasePlanCurrencyConverter\LeasePlanCurrencyConverter.Domain\bin\Debug\netstandard2.0\LeasePlanCurrencyConverter.Domain.dll
+C:\_workspace\LeasePlan\LeasePlanCurrencyConverter\LeasePlanCurrencyConverter.Domain\bin\Debug\netstandard2.0\LeasePlanCurrencyConverter.Domain.pdb
+C:\_workspace\LeasePlan\LeasePlanCurrencyConverter\LeasePlanCurrencyConverter.Domain\obj\Debug\netstandard2.0\LeasePlanCurrencyConverter.Domain.csprojAssemblyReference.cache
+C:\_workspace\LeasePlan\LeasePlanCurrencyConverter\LeasePlanCurrencyConverter.Domain\obj\Debug\netstandard2.0\LeasePlanCurrencyConverter.Domain.AssemblyInfoInputs.cache
+C:\_workspace\LeasePlan\LeasePlanCurrencyConverter\LeasePlanCurrencyConverter.Domain\obj\Debug\netstandard2.0\LeasePlanCurrencyConverter.Domain.AssemblyInfo.cs
+C:\_workspace\LeasePlan\LeasePlanCurrencyConverter\LeasePlanCurrencyConverter.Domain\obj\Debug\netstandard2.0\LeasePlanCurrencyConverter.Domain.csproj.CoreCompileInputs.cache
+C:\_workspace\LeasePlan\LeasePlanCurrencyConverter\LeasePlanCurrencyConverter.Domain\obj\Debug\netstandard2.0\LeasePlanCurrencyConverter.Domain.dll
+C:\_workspace\LeasePlan\LeasePlanCurrencyConverter\LeasePlanCurrencyConverter.Domain\obj\Debug\netstandard2.0\LeasePlanCurrencyConverter.Domain.pdb

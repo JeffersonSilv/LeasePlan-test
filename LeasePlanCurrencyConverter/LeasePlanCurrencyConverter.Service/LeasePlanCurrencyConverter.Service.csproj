@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LeasePlanCurrencyConverter.Adapter\LeasePlanCurrencyConverter.Adapter.csproj" />
+    <ProjectReference Include="..\LeasePlanCurrencyConverter.Data\LeasePlanCurrencyConverter.Data.csproj" />
+    <ProjectReference Include="..\LeasePlanCurrencyConverter.Domain\LeasePlanCurrencyConverter.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

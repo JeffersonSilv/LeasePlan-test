@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=80ec155c_002D6d67_002D4d68_002D987f_002D0eb4129d6725/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnListContainingCurrencies" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01D984FD-1BA8-4676-B4F0-22B2D7995E81::.NETCoreApp,Version=v3.1::LeasePlanCurrencyConverter.Service.Tests.CurrencyServiceTests.ShouldCalculateExchangeRate&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=abd0fb35_002D8457_002D4255_002Dae7e_002D1ec63bc22146/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldCalculateExchangeRate" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01D984FD-1BA8-4676-B4F0-22B2D7995E81::.NETCoreApp,Version=v3.1::LeasePlanCurrencyConverter.Service.Tests.CurrencyServiceTests.ShouldCalculateExchangeRate&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01D984FD-1BA8-4676-B4F0-22B2D7995E81::.NETCoreApp,Version=v3.1::LeasePlanCurrencyConverter.Service.Tests.CurrencyServiceTests.ShouldReturnListContainingCurrencies&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
